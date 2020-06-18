@@ -1,0 +1,4 @@
+---
+config:
+  test:
+    server-key: test,test1
